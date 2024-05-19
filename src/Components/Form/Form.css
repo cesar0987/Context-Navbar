@@ -1,0 +1,15 @@
+form{
+    width: 100%;
+    display: flex;
+    justify-content: flex-start;
+    padding: 20px;
+    font-size: 30px;
+}
+
+input{
+    width: 200px;
+    display: flex;
+    font-size: 30px;
+    border: none;
+    padding-left: 80px;
+}
